@@ -1,5 +1,4 @@
 const express = require("express"); //require express
-const { projects } = require("./data.json"); // projects from data file
 const indexRoute = require("./routes/index");
 const aboutRoute = require("./routes/about");
 const projectRoute = require("./routes/projects");
