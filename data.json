@@ -1,0 +1,49 @@
+{
+    "projects": [
+        {
+            "id": "0",
+            "project_name": "Random Quote Generator",
+            "description": "In this random quote generator, we used HTML, CSS and Vanilla JS to display a Random Quote every 10 seconds and random colour with every new quote. This project holds dynamic values for timing and quotes. We can update the timing (in seconds) and add any number of quotes without changing the total number or any other quote to update the time. This was the first project, created during the Unit 01 of TeamTreeHouse Techdegree course.",
+            "technologies": ["JavaScript", "CSS", "HTML"],
+            "live_link": "https://imnomee.github.io/01-Random-Quote-Generator/",
+            "github_link": "https://github.com/imnomee/01-Random-Quote-Generator",
+            "image_urls": ["image link", "image link 2"]
+        },
+        {
+            "id": "1",
+            "project_name": "List Pagination and Filtering",
+            "description": "In this project, we have use pagination technique to enhance the usability of a web page. Started with a page that contains list of 54 student names and other sample of 64 student names created in HTML. Using Javascript we displayed 10 names or any number user wishes to view at a time and added a navigation system with series of links at the bottom of the page. When user will clicks the navigation links it will display next entries, 10 at a time. After completing the first task, we have added an optional task of adding working unobstrusive Javascript. You can search student names with Full or Partial name search. It will update the navigation links according to the results we receive from the search. As of now, this project with complete with some minor bugs",
+            "technologies": ["JavaScript", "CSS", "HTML"],
+            "live_link": "https://imnomee.github.io/02-List-Pagination-and-Filtering/",
+            "github_link": "https://github.com/imnomee/02-List-Pagination-and-Filtering",
+            "image_urls": ["image link", "image link 2"]
+        },
+        {
+            "id": "0",
+            "project_name": "Random Quote Generator",
+            "description": "In this random quote generator, we used HTML, CSS and Vanilla JS to display a Random Quote every 10 seconds and random colour with every new quote. This project holds dynamic values for timing and quotes. We can update the timing (in seconds) and add any number of quotes without changing the total number or any other quote to update the time. This was the first project, created during the Unit 01 of TeamTreeHouse Techdegree course.",
+            "technologies": ["JavaScript", "CSS", "HTML", "NODE.js", "Express"],
+            "live_link": "https://imnomee.github.io/01-Random-Quote-Generator/",
+            "github_link": "https://github.com/imnomee/01-Random-Quote-Generator",
+            "image_urls": ["image link", "image link 2"]
+        },
+        {
+            "id": "0",
+            "project_name": "Random Quote Generator",
+            "description": "In this random quote generator, we used HTML, CSS and Vanilla JS to display a Random Quote every 10 seconds and random colour with every new quote. This project holds dynamic values for timing and quotes. We can update the timing (in seconds) and add any number of quotes without changing the total number or any other quote to update the time. This was the first project, created during the Unit 01 of TeamTreeHouse Techdegree course.",
+            "technologies": ["JavaScript", "CSS", "HTML", "NODE.js", "Express"],
+            "live_link": "https://imnomee.github.io/01-Random-Quote-Generator/",
+            "github_link": "https://github.com/imnomee/01-Random-Quote-Generator",
+            "image_urls": ["image link", "image link 2"]
+        },
+        {
+            "id": "0",
+            "project_name": "Random Quote Generator",
+            "description": "In this random quote generator, we used HTML, CSS and Vanilla JS to display a Random Quote every 10 seconds and random colour with every new quote. This project holds dynamic values for timing and quotes. We can update the timing (in seconds) and add any number of quotes without changing the total number or any other quote to update the time. This was the first project, created during the Unit 01 of TeamTreeHouse Techdegree course.",
+            "technologies": ["JavaScript", "CSS", "HTML", "NODE.js", "Express"],
+            "live_link": "https://imnomee.github.io/01-Random-Quote-Generator/",
+            "github_link": "https://github.com/imnomee/01-Random-Quote-Generator",
+            "image_urls": ["image link", "image link 2"]
+        }
+    ]
+}
