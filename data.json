@@ -3,11 +3,15 @@
         {
             "id": "0",
             "project_name": "Random Quote Generator",
-            "description": "In this random quote generator, we used HTML, CSS and Vanilla JS to display a Random Quote every 10 seconds and random colour with every new quote. This project holds dynamic values for timing and quotes. We can update the timing (in seconds) and add any number of quotes without changing the total number or any other quote to update the time. This was the first project, created during the Unit 01 of TeamTreeHouse Techdegree course.",
+            "description": "In this random quote generator, we used HTML, CSS and Vanilla JS to display a Random Quote every 10 seconds and random colour with every new quote.\nThis project holds dynamic values for timing and quotes. We can update the timing (in seconds) and add any number of quotes without changing the total number or any other quote to update the time.\nThis was the first project, created during the Unit 01 of TeamTreeHouse Techdegree course.",
             "technologies": ["JavaScript", "CSS", "HTML"],
             "live_link": "https://imnomee.github.io/01-Random-Quote-Generator/",
             "github_link": "https://github.com/imnomee/01-Random-Quote-Generator",
-            "image_urls": ["image link", "image link 2"]
+            "image_urls": [
+                "https://placehold.it/1200x550/fff",
+                "https://placehold.it/1200x550/eff",
+                "https://placehold.it/1200x550/fef"
+            ]
         },
         {
             "id": "1",
@@ -16,34 +20,63 @@
             "technologies": ["JavaScript", "CSS", "HTML"],
             "live_link": "https://imnomee.github.io/02-List-Pagination-and-Filtering/",
             "github_link": "https://github.com/imnomee/02-List-Pagination-and-Filtering",
-            "image_urls": ["image link", "image link 2"]
+            "image_urls": [
+                "https://placehold.it/1200x550/fff",
+                "https://placehold.it/1200x550/eff",
+                "https://placehold.it/1200x550/fef"
+            ]
         },
         {
-            "id": "0",
-            "project_name": "Random Quote Generator",
+            "id": "2",
+            "project_name": "Interatice Form - Validations",
+            "description": "Interactive Form Validations",
+            "technologies": ["JavaScript", "CSS", "HTML", "NODE.js", "Express"],
+            "live_link": "https://imnomee.github.io/03-Project-Interactive-form/",
+            "github_link": "https://github.com/imnomee/03-Project-Interactive-form",
+            "image_urls": [
+                "https://placehold.it/1200x550/fff",
+                "https://placehold.it/1200x550/eff",
+                "https://placehold.it/1200x550/fef"
+            ]
+        },
+        {
+            "id": "3",
+            "project_name": "OOP Javascript Game App",
+            "description": "Object Oriented Programming Game ",
+            "technologies": ["JavaScript", "CSS", "HTML", "NODE.js", "Express"],
+            "live_link": "https://imnomee.github.io/04-OOP-Game-Show-App/",
+            "github_link": "https://github.com/imnomee/04-OOP-Game-Show-App",
+            "image_urls": [
+                "https://placehold.it/1200x550/fff",
+                "https://placehold.it/1200x550/eff",
+                "https://placehold.it/1200x550/fef"
+            ]
+        },
+        {
+            "id": "4",
+            "project_name": "Public API Requests",
+            "description": "Public API Request Description",
+            "technologies": ["JavaScript", "CSS", "HTML", "API"],
+            "live_link": "https://imnomee.github.io/05-Project-Public-API-Requests/",
+            "github_link": "https://github.com/imnomee/05-Project-Public-API-Requests",
+            "image_urls": [
+                "https://placehold.it/1200x550/fff",
+                "https://placehold.it/1200x550/eff",
+                "https://placehold.it/1200x550/fef"
+            ]
+        },
+        {
+            "id": "5",
+            "project_name": "Static Node.js and Express Site",
             "description": "In this random quote generator, we used HTML, CSS and Vanilla JS to display a Random Quote every 10 seconds and random colour with every new quote. This project holds dynamic values for timing and quotes. We can update the timing (in seconds) and add any number of quotes without changing the total number or any other quote to update the time. This was the first project, created during the Unit 01 of TeamTreeHouse Techdegree course.",
             "technologies": ["JavaScript", "CSS", "HTML", "NODE.js", "Express"],
             "live_link": "https://imnomee.github.io/01-Random-Quote-Generator/",
-            "github_link": "https://github.com/imnomee/01-Random-Quote-Generator",
-            "image_urls": ["image link", "image link 2"]
-        },
-        {
-            "id": "0",
-            "project_name": "Random Quote Generator",
-            "description": "In this random quote generator, we used HTML, CSS and Vanilla JS to display a Random Quote every 10 seconds and random colour with every new quote. This project holds dynamic values for timing and quotes. We can update the timing (in seconds) and add any number of quotes without changing the total number or any other quote to update the time. This was the first project, created during the Unit 01 of TeamTreeHouse Techdegree course.",
-            "technologies": ["JavaScript", "CSS", "HTML", "NODE.js", "Express"],
-            "live_link": "https://imnomee.github.io/01-Random-Quote-Generator/",
-            "github_link": "https://github.com/imnomee/01-Random-Quote-Generator",
-            "image_urls": ["image link", "image link 2"]
-        },
-        {
-            "id": "0",
-            "project_name": "Random Quote Generator",
-            "description": "In this random quote generator, we used HTML, CSS and Vanilla JS to display a Random Quote every 10 seconds and random colour with every new quote. This project holds dynamic values for timing and quotes. We can update the timing (in seconds) and add any number of quotes without changing the total number or any other quote to update the time. This was the first project, created during the Unit 01 of TeamTreeHouse Techdegree course.",
-            "technologies": ["JavaScript", "CSS", "HTML", "NODE.js", "Express"],
-            "live_link": "https://imnomee.github.io/01-Random-Quote-Generator/",
-            "github_link": "https://github.com/imnomee/01-Random-Quote-Generator",
-            "image_urls": ["image link", "image link 2"]
+            "github_link": "https://github.com/imnomee/06-Project-Static-Node-and-Express-Site",
+            "image_urls": [
+                "https://placehold.it/1200x550/fff",
+                "https://placehold.it/1200x550/eff",
+                "https://placehold.it/1200x550/fef"
+            ]
         }
     ]
 }

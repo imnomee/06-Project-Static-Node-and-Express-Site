@@ -6,23 +6,29 @@ const projectRoute = require("./routes/projects");
 
 const app = express(); // create app
 app.set("view engine", "pug"); //pug view engine
-app.use("/static", express.static("public"));
+app.use("/static", express.static(__dirname + "/public"));
 
 // ROUTES
 app.use("/", indexRoute);
 app.use("/about", aboutRoute);
 app.use("/projects", projectRoute);
 
+//Error
 app.use((req, res, next) => {
     const err = new Error("Not Found");
+    console.log(req.headers.host);
+    err.host = req.headers.host;
     err.status = 404;
+    err.pathname = req.url;
     next(err);
 });
 
 app.use((err, req, res, next) => {
-    res.locals.error = err;
-    res.status(err.status);
-    res.send(err.message);
+    res.render("error", { err });
+    console.log(
+        `Status: ${err.status}, Message: ${err.message}, Path:${err.host}${err.pathname}`
+    );
 });
 
-app.listen(3000);
+//PORT
+app.listen(4000);

@@ -1,0 +1,7 @@
+extends layout
+
+block content
+  h1= err.message
+  h2= err.status
+  h3 Host: '#{err.host}#{err.pathname}' not found..
+  pre #{err.stack}
