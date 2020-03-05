@@ -10,8 +10,7 @@
             "image_urls": [
                 "/static/images/00/1.png",
                 "/static/images/00/2.png",
-                "/static/images/00/3.png",
-                "/static/images/00/4.png"
+                "/static/images/00/3.png"
             ]
         },
         {
@@ -31,20 +30,21 @@
             "id": "2",
             "project_name": "Interatice Form - Validations",
             "description": "In this project, we used Javascript to enhace an interactive registration form. Using supplied HTML and CSS files. We added our own Javascript to make the form more user-friendly. We added customized, conditional behaviours by validation user input and providing helpful error messages. So when the user enters the invalid information or leaves the field empty, the validtion will revoke the submission process. We used some of the regex (Regular Expressions) to test and match for validations.",
-            "technologies": ["JavaScript", "CSS", "HTML", "NODE.js", "Express"],
+            "technologies": ["JavaScript", "CSS", "HTML"],
             "live_link": "https://imnomee.github.io/03-Project-Interactive-form/",
             "github_link": "https://github.com/imnomee/03-Project-Interactive-form",
             "image_urls": [
-                "https://placehold.it/1200x550/fff",
-                "https://placehold.it/1200x550/eff",
-                "https://placehold.it/1200x550/fef"
+                "/static/images/02/1.png",
+                "/static/images/02/2.png",
+                "/static/images/02/3.png",
+                "/static/images/02/4.png"
             ]
         },
         {
             "id": "3",
             "project_name": "OOP Javascript Game App",
             "description": "In this project we used Object Oriented Javascript to create a puzzle find the phrase game. We impleemented on screen keyboard listeners using 'click' events and then implemented real time physical keyboard listeners using 'keydown' events User is dispalyed a set of hidden letters, qwerty keyboard buttons and option to use physical keyboard in order to guess the hidden letters. If the correct guess is made, the hidden letter is shown. In case of incorrect guess, one life is lost. If the user loses 5 lives, the game is Over and user can play again with new phrase. If user has revealed all the letters, a page is displayed with User displayed with number of mistake they made. If user lost the game and lost 5 lives, the hidden phrase is shown with Game Over message.",
-            "technologies": ["JavaScript", "CSS", "HTML", "NODE.js", "Express"],
+            "technologies": ["JavaScript", "CSS", "HTML", "OOP Javascript"],
             "live_link": "https://imnomee.github.io/04-OOP-Game-Show-App/",
             "github_link": "https://github.com/imnomee/04-OOP-Game-Show-App",
             "image_urls": [
@@ -58,7 +58,15 @@
             "id": "4",
             "project_name": "Public API Requests",
             "description": "In this project, we fetched Random User Data from an API (randomuser.me). We fetch 12 results and displayed their information on the page, including picture, name, email, city and state. When a user clicks on any of the generated card, A modal box is opend with some extra information about the profile, including Address, Date of Birth etc with Buttons to close, previous and next. - Close button will close the modal window - Next button will show the next profile - Prev button will show the previous profile It won't display any errors if the user is on the first or last record. We implemented a Search box for the fetch profiles. When a user enters a search string of more than 2 characters, it will display the result profiles and if there is not match a message is shown on the page. Sometimes the results will return multiple profiles, but user can still navigation through the buttons and get next or prev modal",
-            "technologies": ["JavaScript", "CSS", "HTML", "API"],
+            "technologies": [
+                "JavaScript",
+                "CSS",
+                "HTML",
+                "APIs",
+                "Node.js",
+                "Express.js",
+                "Pug"
+            ],
             "live_link": "https://imnomee.github.io/05-Project-Public-API-Requests/",
             "github_link": "https://github.com/imnomee/05-Project-Public-API-Requests",
             "image_urls": [
