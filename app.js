@@ -2,7 +2,6 @@ const express = require("express"); //require express
 const indexRoute = require("./routes/index");
 const aboutRoute = require("./routes/about");
 const projectRoute = require("./routes/projects");
-
 const app = express(); // create app
 app.set("view engine", "pug"); //pug view engine
 app.use("/static", express.static(__dirname + "/public"));
@@ -30,4 +29,8 @@ app.use((err, req, res, next) => {
 });
 
 //PORT
-app.listen(4000);
+const port = process.env.PORT || 4000;
+
+app.listen(port, () => {
+    console.log("Running server on " + port);
+});
