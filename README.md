@@ -14,7 +14,12 @@ This site contains a modern landing page, and about page, projects page and defa
 We used a JSON file to store our data about the project we created
 Then we used pug templating engine and JSON to generatre markups for display pages in browser.
 
-We used Node.js and Express to: - Import dependencies - Link JSON with pug templates - Set up different routes to handle request and errors - Set up middleware to use statice assets - Set up server to render the project
+We used Node.js and Express to: 
+  - Import dependencies 
+  - Link JSON with pug templates 
+  - Set up different routes to handle request and errors 
+  - Set up middleware to use statice assets 
+  - Set up server to render the project
 
 Some minor changes in styles and display:
 
