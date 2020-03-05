@@ -1,6 +1,6 @@
 # Unit 6 Project - Static Node.js and Express Site
 
-TO RUN THE PROGRAM (default port is 4000):
+TO RUN THE APP (default port is 4000):
   - npm install --save
   - npm start
 
