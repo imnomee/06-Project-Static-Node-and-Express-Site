@@ -1,5 +1,12 @@
 # Unit 6 Project - Static Node.js and Express Site
 
+TO RUN THE PROGRAM (default port is 4000):
+  - npm install --save
+  - npm start
+
+======================
+Description:
+
 In this project, we have created a Porfolio site to showcase our previous projects we built during our Techdegree unit assessments.
 This site contains a modern landing page, and about page, projects page and default error page.
 
